@@ -3,7 +3,7 @@ import {  Link } from "react-router-dom";
 import {connect} from "react-redux"
 
 import "./CartIcon.css"
-
+///
 function CartIcon(Props) {
     return <div id ="cart-icon">
         <Link to = "/cart">

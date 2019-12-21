@@ -31,7 +31,8 @@ class Register extends Component {
 		this.setState({
 			fullname: '',
 			email: '',
-			password: ''
+            password: ''
+            ////
 		});
 	}
 

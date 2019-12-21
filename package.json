@@ -30,6 +30,7 @@
     "react-router-dom": "^5.1.2",
     "redux": "^4.0.4",
     "redux-thunk": "^2.3.0",
+    "store": "file:cryptic-dawn-95633",
     "validator": "^12.1.0"
   },
   "devDependencies": {
